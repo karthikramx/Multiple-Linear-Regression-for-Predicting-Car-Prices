@@ -43,7 +43,7 @@ The following steps were followed to build the model
 <p float="left" align="center">
 <img src="https://github.com/karthikramx/Multiple-Linear-Regression-for-Predicting-Car-Prices/blob/main/Images/t1%20dist.png" alt="drawing"     style="width:400px;"/>
 
-<img src="https://github.com/karthikramx/Multiple-Linear-Regression-for-Predicting-Car-Prices/blob/main/Images/t1%20dist.png" alt="drawing" style="width:400px;"/>
+<img src="https://github.com/karthikramx/Multiple-Linear-Regression-for-Predicting-Car-Prices/blob/main/Images/t2%20dist.png" alt="drawing" style="width:400px;"/>
 </p>
 
 
